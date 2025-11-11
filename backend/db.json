@@ -1,0 +1,218 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "Milli Aviasiya Akademiyasının təşkilatçılığı ilə hazırlanan “Research and Updates on the Use of Artificial Intelligence in Drone Technology” kitabı Springer Nature nəşriyyatında dərc olunub",
+      "description": "Milli Aviasiya Akademiyasının təşkilatçılığı ilə həyata keçirilmiş simpoziumun materiallar toplusu…",
+      "coverImage": "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762796549/image_krzxgu.png",
+      "type": "news",
+      "date": "06/11/2026",
+      "time": "10:19 AM",
+      "status": "active",
+      "publishStatus": "publish",
+      "author": "snovruzlu",
+      "gallery": [
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762796413/image3_gaywd9.png",
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762796576/295810a6-bb2b-4c45-a8ed-d972ed0c0c01.png"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Milli Aviasiya Akademiyasının təşkilatçılığı ilə hazırlanan “Research and Updates on the Use of Artificial Intelligence in Drone Technology” kitabı Springer Nature nəşriyyatında dərc olunub",
+      "description": "Milli Aviasiya Akademiyasının təşkilatçılığı ilə həyata keçirilmiş simpoziumun materiallar toplusu…",
+      "coverImage": "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762796549/image_krzxgu.png",
+      "type": "news",
+      "date": "06/11/2026",
+      "time": "10:19 AM",
+      "status": "inactive",
+      "publishStatus": "draft",
+      "author": "snovruzlu",
+      "gallery": [
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762796413/image3_gaywd9.png",
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762796576/295810a6-bb2b-4c45-a8ed-d972ed0c0c01.png"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Milli Aviasiya Akademiyasının təşkilatçılığı ilə hazırlanan “Research and Updates on the Use of Artificial Intelligence in Drone Technology” kitabı Springer Nature nəşriyyatında dərc olunub",
+      "description": "Milli Aviasiya Akademiyasının təşkilatçılığı ilə həyata keçirilmiş simpoziumun materiallar toplusu…",
+      "coverImage": "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762796414/image5_a7hwu2.png",
+      "type": "news",
+      "date": "06/11/2026",
+      "time": "10:19 AM",
+      "status": "active",
+      "publishStatus": "publish",
+      "author": "snovruzlu",
+      "gallery": [
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762796413/image3_gaywd9.png",
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762796576/295810a6-bb2b-4c45-a8ed-d972ed0c0c01.png"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Milli Aviasiya Akademiyasının təşkilatçılığı ilə hazırlanan “Research and Updates on the Use of Artificial Intelligence in Drone Technology” kitabı Springer Nature nəşriyyatında dərc olunub",
+      "description": "Milli Aviasiya Akademiyasının təşkilatçılığı ilə həyata keçirilmiş simpoziumun materiallar toplusu…",
+      "coverImage": "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762796413/image2_pohwdh.png",
+      "type": "news",
+      "date": "06/11/2026",
+      "time": "10:19 AM",
+      "status": "active",
+      "publishStatus": "draft",
+      "author": "snovruzlu",
+      "gallery": [
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762796413/image3_gaywd9.png",
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762796576/295810a6-bb2b-4c45-a8ed-d972ed0c0c01.png"
+      ]
+    },
+    {
+      "id": 1762843037383,
+      "date": "11.11.2025",
+      "time": "10:37:17",
+      "status": "active",
+      "publishStatus": "draft",
+      "author": "snovruzlu",
+      "title": "aytac",
+      "slug": "naa.edu/az",
+      "type": "announcement",
+      "description": "<p>a</p>",
+      "coverImage": "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762843028/hq4orozcdzgyboismgty.png",
+      "gallery": [
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762843035/afj5n3xrzio0ezijknek.png"
+      ]
+    },
+    {
+      "id": 8,
+      "date": "11.11.2025",
+      "time": "10:37:17",
+      "status": "active",
+      "publishStatus": "publish",
+      "author": "snovruzlu",
+      "title": "sadsda",
+      "slug": "naa.edu/az",
+      "type": "announcement",
+      "description": "<p>a</p>",
+      "coverImage": "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762843028/hq4orozcdzgyboismgty.png",
+      "gallery": [
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762843035/afj5n3xrzio0ezijknek.png"
+      ]
+    },
+    {
+      "id": 1762845935095,
+      "date": "11.11.2025",
+      "time": "11:25:35",
+      "status": "active",
+      "publishStatus": "publish",
+      "author": "snovruzlu",
+      "title": "sadas",
+      "slug": "naa.edu/az",
+      "type": "announcement",
+      "description": "<p>a</p>",
+      "coverImage": "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762845929/jarvdheghhqratuf7vjk.png",
+      "gallery": [
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762845933/plauxtrwa3pw8lvaddio.png"
+      ]
+    },
+    {
+      "id": 1762863140661,
+      "date": "11.11.2025",
+      "time": "16:12:20",
+      "status": "active",
+      "publishStatus": "publish",
+      "author": "snovruzlu",
+      "title": "Milli Aviasiya Akademiyasının təşkilatçılığı ilə hazırlanan “Research and Updates on the Use of Artificial Intelligence in Drone Technology” kitabı Springer Nature nəşriyyatında dərc olunub",
+      "slug": "naa.edu/az",
+      "type": "news",
+      "description": "<p style=\"text-align: left;\"><em>Milli Aviasiya Akademiyasının təşkilatçılığı ilə həyata keçirilmiş “Pilotsuz Sistemlər: Süni İntellekt, Dizayn və Səmərəlilik” (“International Symposium on Unmanned Systems: AI, Design and Efficiency” - ISUDEF’24) beynəlxalq simpoziumunun materiallar toplusu nüfuzlu Springer Nature nəşriyyatının “Sustainable Aviation” kitab seriyasında “Research and Updates on the Use of Artificial Intelligence in Drone Technology” adı ilə dərc olunub. Bu toplu pilotsuz sistemlər, süni intellekt və aviasiya texnologiyaları sahəsində aparılan ən son elmi tədqiqatları əhatə edir. Topluda yer alan elmi məqalələr Scopus bazasında indekslənəcək və Akademiyanın alim və tədqiqatçılarının beynəlxalq səviyyədə tanınması imkanlarını daha da artıracaq. Kitabla tanış olmaq üçün keçid etməyi unutmayın.</em></p><p></p>",
+      "coverImage": "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762863126/negv9bpfvo4fmuqzfuzn.png",
+      "gallery": [
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762863133/jqvlafffuglnqsmkqvfm.png",
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762863135/n8ujtsi5rvezpus29qzj.png"
+      ]
+    },
+    {
+      "id": 1762864604748,
+      "date": "11.11.2025",
+      "time": "16:36:44",
+      "status": "active",
+      "publishStatus": "publish",
+      "author": "snovruzlu",
+      "title": "sad",
+      "slug": "naa.edu/az",
+      "type": "announcement",
+      "description": "<p><strong>sadasd</strong></p>",
+      "coverImage": "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762864580/ktt8ecbl2rzr3skyo3d4.png",
+      "gallery": [
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762864585/gfojayopkf2f84gjx9v4.png",
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762864602/mk6oaxxbc87clujkdiw8.png"
+      ]
+    },
+    {
+      "id": 1762864666990,
+      "date": "11.11.2025",
+      "time": "16:37:47",
+      "status": "active",
+      "publishStatus": "publish",
+      "author": "snovruzlu",
+      "title": "sdasd",
+      "slug": "naa.edu/az",
+      "type": "news",
+      "description": "<p>asdasd</p>",
+      "coverImage": "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762864659/ovvg7t7wxqozd2sldu1m.png",
+      "gallery": [
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762864664/kz85gujb38ap4ccp2hrm.png",
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762864665/jigbao97xrdctsufob61.png"
+      ]
+    },
+    {
+      "id": 1762864748682,
+      "date": "11.11.2025",
+      "time": "16:39:08",
+      "status": "active",
+      "publishStatus": "publish",
+      "author": "snovruzlu",
+      "title": "asdasd",
+      "slug": "naa.edu/az",
+      "type": "news",
+      "description": "<p>asda</p>",
+      "coverImage": "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762864742/ewvady0mb7m46szftl4a.png",
+      "gallery": [
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762864746/otnnbeffmvkagnvj0tt3.png",
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762864746/hz73ldcuwp3lfkri5d0g.png"
+      ]
+    },
+    {
+      "id": 1762864896453,
+      "date": "11.11.2025",
+      "time": "16:41:36",
+      "status": "active",
+      "publishStatus": "publish",
+      "author": "snovruzlu",
+      "title": "xdsfd",
+      "slug": "naa.edu/az",
+      "type": "announcement",
+      "description": "<p>sdfsdf</p>",
+      "coverImage": "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762864890/bewfjpqblkedumkltrhk.png",
+      "gallery": [
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762864894/rqaghnfiwdaq5ag8nmwi.png"
+      ]
+    },
+    {
+      "id": 1762865057138,
+      "date": "11.11.2025",
+      "time": "16:44:17",
+      "status": "active",
+      "publishStatus": "publish",
+      "author": "snovruzlu",
+      "title": "asdasd",
+      "slug": "naa.edu/az",
+      "type": "announcement",
+      "description": "<p>asdasd</p>",
+      "coverImage": "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762865049/ddjcfo57n2n6a7yxxrdz.png",
+      "gallery": [
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762865053/be537ghfg28tmwbo59wn.png",
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762865054/bg53kenp6cg2m3h5lu9s.png",
+        "https://res.cloudinary.com/dpgn62ht7/image/upload/v1762865055/xwcq1qnxscickht6it4g.png"
+      ]
+    }
+  ]
+}
