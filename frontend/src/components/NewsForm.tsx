@@ -32,8 +32,12 @@ export default function NewsForm({ setOpenModal, post }: NewsFormProps) {
 
   const queryClient = useQueryClient();
 
-  const mutation = useMutation({
-    mutationFn: post ? updatePost : addPost,
+  const mutation = useMutation<Post, Error, CreatePost | Post>({
+    mutationFn: (payload) => {
+      return post
+        ? updatePost(payload as Post)
+        : addPost(payload as CreatePost);
+    },
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ["posts"] });
       setIsSuccessModalOpen(true);
